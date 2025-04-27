@@ -1,6 +1,6 @@
 ---
 
-# 📊 Streamlit App Deployment Guide
+# Streamlit App Deployment Guide
 
 ---
 
